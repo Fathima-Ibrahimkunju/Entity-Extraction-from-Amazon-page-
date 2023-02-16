@@ -21,7 +21,8 @@ The objective of this project is to develop a chatbot that can comprehend user i
 * Python: https://www.python.org/downloads/ <br>
 * PyCharm: https://www.jetbrains.com/pycharm/download/ <br>
 * For Pandas, Numpy, requests and beautifulsoup: <br>
-Open your terminal or command prompt and type the following command: pip install pandas/numpy/requests/beautifulsoup4
+Open your terminal or command prompt and type the following command: <br> 
+"pip install pandas/numpy/requests/beautifulsoup4"
 
 ### PROJECT WORKFLOW
 
